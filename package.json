@@ -1,0 +1,12 @@
+{
+  "name": "simple-nodejs-app-to-test-aws-ecs",
+  "version": "1.0.0",
+  "description": "This is just a simple NodeJS app to test AWS ECS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
